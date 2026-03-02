@@ -38,6 +38,7 @@ img {
 a {
     text-decoration: none;
     color: inherit;
+    transition: 0.2s;
 }
 
 ul {
@@ -252,4 +253,3 @@ ul {
 .main__link:hover {
     color: #F8FAFC;
     background:  rgba(14, 165, 233, 1);
-}
